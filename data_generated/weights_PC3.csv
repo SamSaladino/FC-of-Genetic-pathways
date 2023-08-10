@@ -1,0 +1,29 @@
+,PC3,Pathways
+0,0.06602836084052977,Autophagy
+1,0.09915181488590318,Cell Cycle
+2,-0.3454396636256022,Cell-Cell communication
+3,0.02883620359738904,Cellular responses to external stimuli
+4,0.017658300610684588,Chromatin organization
+5,-0.09017931847528438,Circadian Clock
+6,-0.11945564092240213,Developmental Biology
+7,0.43607254711532173,Digestion and absorption
+8,-0.06362184493521553,Disease
+9,0.10463119001968546,DNA Repair
+10,0.2277197069038466,DNA Replication
+11,-0.32444620644735406,Extracellular matrix organization
+12,0.046437672524134416,Gene expression (Transcription)
+13,-0.19348743804605525,Hemostasis
+14,-0.09664463808473508,Immune System
+15,-0.10708218639596047,Metabolism
+16,0.0030804650226291747,Metabolism of proteins
+17,0.27583482761170247,Metabolism of RNA
+18,0.09555512424959596,Mitophagy
+19,-0.44097362040272736,Muscle contraction
+20,-0.22539463143058203,Neuronal System
+21,0.08858509005417714,Organelle biogenesis and maintenance
+22,0.008282815423784472,Programmed Cell Death
+23,0.014916921352066178,Protein localization
+24,-0.04650169846416422,Reproduction
+25,-0.146268298436622,Signal Transduction
+26,-0.2409718799158576,Transport of small molecules
+27,-0.0031751214862283175,Vesicle-mediated transport
