@@ -3,11 +3,11 @@
 library(TCGAbiolinks)
 
 # Set the working directory where you want to save the data
-setwd("/path/to/your/directory")
+#setwd("/path/to/your/directory")
 
 # Specify the cancer type and data type
 cancer_type <- "SKCM"  # Skin Cutaneous Melanoma
-data_type <- "Gene expression"
+data_type <- "Gene Expression Quantification"
 
 # Query TCGA data
 query <- GDCquery(project = "TCGA-SKCM", 
