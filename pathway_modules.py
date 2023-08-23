@@ -9,6 +9,14 @@ class PathwayAnalyzer:
         self.pathways = pd.read_excel(path,header=None)
         self.pathways.columns = ['Pathways','Ensemble']
 
+    def pathway_query(self,ensemble_ids):
+        genes_annotated = pd.unique(self.pathways.Ensemble)
+        genes_path = set(genes_annotated) & set(ensemble_ids)
+        return self.pathways.query('Ensemble in @genes_path')
+
+    def pathway_expression(self, dataframe, columns=False, col_name=None):
+        pathway_names = pd.unique(self.pathway_query.Pathways)
+
 # # class PathwayMatrix:
 # #     def __init__(self, folder_path,ensemble_id):
 # #         self.folder_path = folder_path
