@@ -20,10 +20,9 @@ class PathwayAnalyzer:
         pathway_names : pandas DataFrame
             Non repeated pathway names
     """
-    def __init__(self,path=str):
+    def __init__(self,path):
         self.pathways = pd.read_excel(path,header=None)
         self.pathways.columns = ['Pathways','Ensemble']
-        self.pathway_names = pd.unique(self.pathway_query.Pathways)
 
     def pathway_query(self,ensemble_ids):
         genes_annotated = pd.unique(self.pathways.Ensemble)
@@ -31,6 +30,7 @@ class PathwayAnalyzer:
         return self.pathways.query('Ensemble in @genes_path')
 
     def calculate_matrix(self, data_frame, ensemble_ids, col=False, col_name=None):
+        self.pathway_names = pd.unique(self.pathway_query.Pathways)
         self.pathways_query(ensemble_ids)
         X = []
         for p in self.pathway_names:
