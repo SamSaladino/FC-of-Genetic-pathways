@@ -2,12 +2,26 @@ import numpy as np
 import pandas as pd
 
 
+#################################################
+def pathway_read(path):
+    return pd.read_excel(path, header=None)
+
+def genes_coincidences(path, ensemble_ids):
+    pathways = pd.read_excel(path, header=None)
+    pathways.columns = ['Pathways', 'Ensemble']
+
+    genes_annotated = pd.unique(pathways.Ensemble)
+    return set(ensemble_ids) & set(genes_annotated)
+
+
+
+########################################################
 def pathway_query(path,ensemble_ids):
     pathways = pd.read_excel(path, header=None)
     pathways.columns = ['Pathways', 'Ensemble']
 
     genes_annotated = pd.unique(pathways.Ensemble)
-    genes_path = set(genes_annotated) & set(ensemble_ids)
+    genes_path = set(ensemble_ids) & set(genes_annotated)
 
     return pathways.query('Ensemble in @genes_path')
 
