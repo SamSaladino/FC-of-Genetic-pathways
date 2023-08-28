@@ -17,9 +17,9 @@ Reactome compilation of pathways.
  * pathway_modules.py is a module imported in the notebooks for easier manipulation
 
 ### Folders
-* data_external :  contains the pathways reactome info (top 28 pathways and all pathways) and the melanoma data downloaded from TCGA
+* data_external : contains the pathways reactome info (top 28 pathways and all pathways) and the melanoma data downloaded from TCGA
 * data_generated : data generated in this repository or DarioALeonValido/evolp repository
-* figures_tables : fifures and tables of the paper generated in the notebooks
+* figures_tables : figures and tables of the paper generated in the notebooks
 
 
 I hope this formatting works for you! If you have any more questions or need further assistance, feel free to ask.
