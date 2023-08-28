@@ -1,29 +1,29 @@
 ,PC2,Pathways
-0,0.0005694805789525637,Autophagy
-1,-0.2439102462862246,Cell Cycle
-2,0.12207500415181345,Cell-Cell communication
-3,-0.04385358433474724,Cellular responses to external stimuli
-4,-0.22732441523531938,Chromatin organization
-5,0.04832935916795271,Circadian Clock
-6,0.006583315510307344,Developmental Biology
-7,0.7262129149290883,Digestion and absorption
-8,0.0766709721290147,Disease
-9,-0.223826760015114,DNA Repair
+0,0.0005694805789526814,Autophagy
+1,-0.24391024628622454,Cell Cycle
+2,0.12207500415181329,Cell-Cell communication
+3,-0.04385358433474717,Cellular responses to external stimuli
+4,-0.2273244152353192,Chromatin organization
+5,0.048329359167952814,Circadian Clock
+6,0.0065833155103074414,Developmental Biology
+7,0.7262129149290879,Digestion and absorption
+8,0.07667097212901469,Disease
+9,-0.22382676001511387,DNA Repair
 10,-0.2043472212102177,DNA Replication
-11,0.007730392433989333,Extracellular matrix organization
-12,-0.055523661959054935,Gene expression (Transcription)
-13,0.1981667340721164,Hemostasis
+11,0.0077303924339895275,Extracellular matrix organization
+12,-0.05552366195905491,Gene expression (Transcription)
+13,0.19816673407211643,Hemostasis
 14,0.13609735694705047,Immune System
-15,0.11694518259150846,Metabolism
-16,0.01640545575503984,Metabolism of proteins
-17,0.02086009689978334,Metabolism of RNA
-18,0.012991989835771031,Mitophagy
-19,0.04953369096109711,Muscle contraction
-20,0.12337815398469229,Neuronal System
-21,0.0013634648565102221,Organelle biogenesis and maintenance
-22,-0.01844534398957525,Programmed Cell Death
-23,0.09943572919691378,Protein localization
-24,-0.251626628709898,Reproduction
-25,0.031192033936448038,Signal Transduction
-26,0.255844108506849,Transport of small molecules
-27,0.10663899075971248,Vesicle-mediated transport
+15,0.1169451825915084,Metabolism
+16,0.016405455755039825,Metabolism of proteins
+17,0.02086009689978323,Metabolism of RNA
+18,0.012991989835771081,Mitophagy
+19,0.04953369096109761,Muscle contraction
+20,0.12337815398469236,Neuronal System
+21,0.0013634648565101176,Organelle biogenesis and maintenance
+22,-0.018445343989575227,Programmed Cell Death
+23,0.09943572919691375,Protein localization
+24,-0.2516266287098977,Reproduction
+25,0.03119203393644817,Signal Transduction
+26,0.2558441085068491,Transport of small molecules
+27,0.10663899075971242,Vesicle-mediated transport
