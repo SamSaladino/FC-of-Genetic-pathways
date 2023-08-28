@@ -11,15 +11,18 @@ Reactome compilation of pathways.
 ### Notebooks and scripts:
  In this folder you can find two python notebooks and one python script
 
- * Expr_pathways.ipynb Generate the figures and tables corresponding to all 16 tumor samples using the top 28 pathways from Reactome database.
+ * <span style="color:red">Expr_pathways.ipynb</span> Generate the figures and tables corresponding to all 16 tumor samples using the top 28 pathways from Reactome database.
 
- * Melanoma_exp_pathways.ipynb Generate the data means, tables and graphics corresponding to melanoma data.
- * pathway_modules.py is a module imported in the notebooks for easier manipulation
+ * <span style="color:red">Melanoma_exp_pathways.ipynb</span> Generate the data means, tables and graphics corresponding to melanoma data.
+  
+ * <span style="color:red">pathway_modules.py</span> is a module imported in the notebooks for easier manipulation
 
 ### Folders
-* data_external : contains the pathways reactome info (top 28 pathways and all pathways) and the melanoma data downloaded from TCGA
-* data_generated : data generated in this repository or DarioALeonValido/evolp repository
-* figures_tables : figures and tables of the paper generated in the notebooks
+* <span style="color:blue">data_external</span> : contains the pathways reactome info (top 28 pathways and all pathways) and the melanoma data downloaded from TCGA
+
+* <span style="color:blue">data_generated</span> : data generated in this repository or DarioALeonValido/evolp repository
+  
+* <span style="color:blue">figures_tables</span> : figures and tables of the paper generated in the notebooks
 
 
-I hope this formatting works for you! If you have any more questions or need further assistance, feel free to ask.
+*I hope this formatting works for you! If you have any more questions or need further assistance, feel free to ask.*
