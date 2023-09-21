@@ -1,21 +1,31 @@
-,Expression,PathwayName,Number of Genes
-1642,2.8695140080045003,Metal sequestration by antimicrobial proteins,6
-2201,1.9115476972796894,"Defective CYP4F22 causes Ichthyosis, congenital, autosomal recessive 5 (ARCI5)",1
-485,1.8631478053062112,CD22 mediated BCR regulation,61
-1395,1.7748473167307104,Type I hemidesmosome assembly,11
-475,1.7682194686067638,Classical antibody-mediated complement activation,63
-182,1.728351956269481,FCGR activation,132
-186,1.6721946666841465,Formation of the cornified envelope,130
-426,1.6379667294120286,Scavenging of heme from plasma,69
-2159,1.60942231682284,Defective ABCA12 causes autosomal recessive congenital ichthyosis type 4B,1
-173,1.6040823381582137,Role of LAT2/NTAL/LAB on calcium mobilization,136
-421,1.6028904708126,Creation of C4 and C2 activators,71
-2176,1.553778986277215,t(4;14) translocations of FGFR3,1
-136,1.5357836846502964,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,163
-373,1.5067758472818795,Initial triggering of complement,79
-1765,1.5036971513729285,Melanin biosynthesis,5
-355,1.4422501877251064,Role of phospholipids in phagocytosis,83
-139,1.4390696900266173,FCERI mediated Ca+2 mobilization,162
-1375,1.4052156370420104,Apoptotic cleavage of cell adhesion  proteins,11
-2231,1.3986395639206641,Defective CYP1B1 causes Glaucoma,1
-2070,1.3796078561348912,Variant SLC6A14 may confer susceptibility towards obesity,1
+,index,Expression,PathwayName,Number of Genes
+0,1642,2.8695140080045003,Metal sequestration by antimicrobial proteins,6
+1,485,1.8631478053062112,CD22 mediated BCR regulation,61
+2,1395,1.7748473167307104,Type I hemidesmosome assembly,11
+3,475,1.7682194686067638,Classical antibody-mediated complement activation,63
+4,182,1.728351956269481,FCGR activation,132
+5,186,1.6721946666841465,Formation of the cornified envelope,130
+6,426,1.6379667294120286,Scavenging of heme from plasma,69
+7,173,1.6040823381582137,Role of LAT2/NTAL/LAB on calcium mobilization,136
+8,421,1.6028904708126,Creation of C4 and C2 activators,71
+9,136,1.5357836846502964,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,163
+10,373,1.5067758472818795,Initial triggering of complement,79
+11,1765,1.5036971513729285,Melanin biosynthesis,5
+12,355,1.4422501877251064,Role of phospholipids in phagocytosis,83
+13,139,1.4390696900266173,FCERI mediated Ca+2 mobilization,162
+14,1375,1.4052156370420104,Apoptotic cleavage of cell adhesion  proteins,11
+15,255,1.302661459070971,Regulation of Complement cascade,103
+16,319,1.2980845645887618,FCERI mediated MAPK activation,90
+17,220,1.209419557277375,Complement cascade,114
+18,224,1.1867132547347956,Binding and Uptake of Ligands by Scavenger Receptors,111
+19,78,1.0901462828983925,Fcgamma receptor (FCGR) dependent phagocytosis,239
+20,71,1.0520178195024694,Signaling by the B Cell Receptor (BCR),259
+21,92,1.0186542242060395,Keratinization,217
+22,110,1.0098072245267857,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,186
+23,67,0.9479915736808422,Fc epsilon receptor (FCERI) signaling,271
+24,1624,0.9427247329641537,Interleukin-36 pathway,7
+25,149,0.9201097056603021,Regulation of actin dynamics for phagocytic cup formation,150
+26,1734,0.9004832532473891,MET interacts with TNS proteins,5
+27,1599,0.8918231243842002,Synthesis of 12-eicosatetraenoic acid derivatives,7
+28,104,0.873208245476141,Cell surface interactions at the vascular wall,196
+29,165,0.8669634403546365,FCERI mediated NF-kB activation,140
