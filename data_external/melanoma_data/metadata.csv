@@ -1,0 +1,473 @@
+Sample ID,Sample Type
+TCGA-DA-A95Z-06A,Metastatic
+TCGA-GN-A8LL-06A,Metastatic
+TCGA-D3-A8GM-06A,Metastatic
+TCGA-EE-A2GN-06A,Metastatic
+TCGA-FR-A729-06A,Metastatic
+TCGA-EE-A29G-06A,Metastatic
+TCGA-EE-A2MF-06A,Metastatic
+TCGA-WE-A8K6-06A,Metastatic
+TCGA-EE-A2MT-06A,Metastatic
+TCGA-FR-A8YC-06A,Metastatic
+TCGA-EE-A2GK-06A,Metastatic
+TCGA-ER-A19J-06A,Metastatic
+TCGA-DA-A1IA-06A,Metastatic
+TCGA-D9-A4Z6-06A,Metastatic
+TCGA-BF-A5ES-01A,Primary Tumor
+TCGA-FS-A1ZK-06A,Metastatic
+TCGA-GN-A262-06A,Metastatic
+TCGA-DA-A95W-06A,Metastatic
+TCGA-EE-A2M7-06A,Metastatic
+TCGA-EE-A2GO-06A,Metastatic
+TCGA-FS-A1Z0-06A,Metastatic
+TCGA-DA-A1HW-06A,Metastatic
+TCGA-GF-A2C7-01A,Primary Tumor
+TCGA-GN-A265-06A,Metastatic
+TCGA-FS-A1Z3-06A,Metastatic
+TCGA-FR-A7UA-06A,Metastatic
+TCGA-BF-AAP1-01A,Primary Tumor
+TCGA-EE-A2A5-06A,Metastatic
+TCGA-EE-A3J8-06A,Metastatic
+TCGA-EE-A29E-06A,Metastatic
+TCGA-FS-A1ZW-06A,Metastatic
+TCGA-EE-A3J7-06A,Metastatic
+TCGA-EB-A6R0-01A,Primary Tumor
+TCGA-EB-A41B-01A,Primary Tumor
+TCGA-D3-A51R-06A,Metastatic
+TCGA-D3-A3CF-06A,Metastatic
+TCGA-EE-A3JE-06A,Metastatic
+TCGA-EB-A3HV-01A,Primary Tumor
+TCGA-EE-A17Y-06A,Metastatic
+TCGA-FS-A1ZJ-06A,Metastatic
+TCGA-D3-A2JO-06A,Metastatic
+TCGA-D3-A8GN-06A,Metastatic
+TCGA-D3-A2JK-06A,Metastatic
+TCGA-ER-A2ND-06A,Metastatic
+TCGA-EE-A17Z-06A,Metastatic
+TCGA-FS-A4F2-06A,Metastatic
+TCGA-EB-A5SF-01A,Primary Tumor
+TCGA-YG-AA3O-06A,Metastatic
+TCGA-BF-A1PZ-01A,Primary Tumor
+TCGA-D3-A1Q3-06A,Metastatic
+TCGA-D3-A8GK-06A,Metastatic
+TCGA-DA-A1IC-06A,Metastatic
+TCGA-BF-A3DL-01A,Primary Tumor
+TCGA-EB-A553-01A,Primary Tumor
+TCGA-D3-A2JL-06A,Metastatic
+TCGA-EE-A3JI-06A,Metastatic
+TCGA-EE-A29T-06A,Metastatic
+TCGA-GF-A4EO-06A,Metastatic
+TCGA-EE-A2MK-06A,Metastatic
+TCGA-WE-A8ZX-06A,Metastatic
+TCGA-D3-A5GR-06A,Metastatic
+TCGA-BF-AAOX-01A,Primary Tumor
+TCGA-FS-A4FD-06A,Metastatic
+TCGA-WE-A8ZQ-06A,Metastatic
+TCGA-EE-A29V-06A,Metastatic
+TCGA-D3-A2JE-06A,Metastatic
+TCGA-D3-A1Q9-06A,Metastatic
+TCGA-W3-AA1Q-06A,Metastatic
+TCGA-DA-A95X-06A,Metastatic
+TCGA-WE-A8K1-06A,Metastatic
+TCGA-FW-A5DX-01A,Primary Tumor
+TCGA-ER-A19G-06A,Metastatic
+TCGA-DA-A1I4-06A,Metastatic
+TCGA-EE-A2GB-06A,Metastatic
+TCGA-XV-AAZY-01A,Primary Tumor
+TCGA-QB-AA9O-06A,Metastatic
+TCGA-EE-A2GS-06A,Metastatic
+TCGA-D3-A3MR-06A,Metastatic
+TCGA-D3-A5GL-06A,Metastatic
+TCGA-ER-A195-06A,Metastatic
+TCGA-D3-A3MO-06A,Metastatic
+TCGA-ER-A42K-06A,Metastatic
+TCGA-ER-A19N-06A,Metastatic
+TCGA-EE-A29S-06A,Metastatic
+TCGA-EB-A5SH-06A,Metastatic
+TCGA-EE-A2GM-06B,Metastatic
+TCGA-D3-A3C7-06A,Metastatic
+TCGA-EE-A2MU-06A,Metastatic
+TCGA-ER-A199-06A,Metastatic
+TCGA-FW-A5DY-06A,Metastatic
+TCGA-D3-A8GO-06A,Metastatic
+TCGA-D3-A3MU-06A,Metastatic
+TCGA-D9-A3Z1-06A,Metastatic
+TCGA-DA-A1HV-06A,Metastatic
+TCGA-D3-A8GP-06A,Metastatic
+TCGA-DA-A1I0-06A,Metastatic
+TCGA-D3-A1Q7-06A,Metastatic
+TCGA-D9-A3Z4-01A,Primary Tumor
+TCGA-EE-A184-06A,Metastatic
+TCGA-D9-A6EA-06A,Metastatic
+TCGA-EB-A4P0-01A,Primary Tumor
+TCGA-FW-A3R5-06A,Metastatic
+TCGA-EB-A5UM-01A,Primary Tumor
+TCGA-EE-A29Q-06A,Metastatic
+TCGA-ER-A19T-01A,Primary Tumor
+TCGA-WE-A8ZN-06A,Metastatic
+TCGA-DA-A95Y-06A,Metastatic
+TCGA-EE-A29L-06A,Metastatic
+TCGA-EB-A1NK-01A,Primary Tumor
+TCGA-EB-A85J-01A,Primary Tumor
+TCGA-D3-A2JP-06A,Metastatic
+TCGA-D3-A2JG-06A,Metastatic
+TCGA-EE-A29W-06A,Metastatic
+TCGA-XV-AB01-06A,Metastatic
+TCGA-EE-A3AH-06A,Metastatic
+TCGA-EB-A299-01A,Primary Tumor
+TCGA-ER-A19E-06A,Metastatic
+TCGA-WE-AAA3-06A,Metastatic
+TCGA-EE-A20B-06A,Metastatic
+TCGA-D3-A51E-06A,Metastatic
+TCGA-D3-A3BZ-06A,Metastatic
+TCGA-DA-A3F5-06A,Metastatic
+TCGA-FS-A1YX-06A,Metastatic
+TCGA-FS-A1ZM-06A,Metastatic
+TCGA-GN-A4U9-06A,Metastatic
+TCGA-Z2-AA3S-06A,Metastatic
+TCGA-WE-AAA4-06A,Metastatic
+TCGA-D3-A1Q1-06A,Metastatic
+TCGA-FS-A4F9-06A,Metastatic
+TCGA-WE-A8ZR-06A,Metastatic
+TCGA-FS-A1YY-06A,Metastatic
+TCGA-EE-A2MS-06A,Metastatic
+TCGA-FS-A4FC-06A,Metastatic
+TCGA-ER-A193-06A,Metastatic
+TCGA-EB-A3Y6-01A,Primary Tumor
+TCGA-D3-A51T-06A,Metastatic
+TCGA-D3-A1Q6-06A,Metastatic
+TCGA-EB-A6QY-01A,Primary Tumor
+TCGA-YD-A89C-06A,Metastatic
+TCGA-D3-A2J6-06A,Metastatic
+TCGA-FS-A1ZN-01A,Primary Tumor
+TCGA-EE-A182-06A,Metastatic
+TCGA-D9-A148-06A,Metastatic
+TCGA-FR-A3R1-01A,Primary Tumor
+TCGA-RP-A6K9-06A,Metastatic
+TCGA-GF-A3OT-06A,Metastatic
+TCGA-WE-A8ZT-06A,Metastatic
+TCGA-EE-A29P-06A,Metastatic
+TCGA-D9-A6E9-06A,Metastatic
+TCGA-FS-A1ZF-06A,Metastatic
+TCGA-FR-A728-01A,Primary Tumor
+TCGA-EE-A2A6-06A,Metastatic
+TCGA-D3-A8GD-06A,Metastatic
+TCGA-DA-A1I7-06A,Metastatic
+TCGA-D3-A8GE-06A,Metastatic
+TCGA-Z2-A8RT-06A,Metastatic
+TCGA-FR-A7U9-06A,Metastatic
+TCGA-W3-AA1R-06A,Metastatic
+TCGA-EB-A3XC-01A,Primary Tumor
+TCGA-D3-A1QA-06A,Metastatic
+TCGA-BF-A5EQ-01A,Primary Tumor
+TCGA-Z2-AA3V-06A,Metastatic
+TCGA-EE-A2GU-06A,Metastatic
+TCGA-ER-A19S-06A,Metastatic
+TCGA-GF-A6C8-06A,Metastatic
+TCGA-GN-A26A-06A,Metastatic
+TCGA-GN-A267-06A,Metastatic
+TCGA-BF-A1Q0-01A,Primary Tumor
+TCGA-EE-A2GL-06A,Metastatic
+TCGA-GN-A4U8-11A,Solid Tissue Normal
+TCGA-D3-A2JF-06A,Metastatic
+TCGA-D3-A3C1-06A,Metastatic
+TCGA-ER-A19H-06A,Metastatic
+TCGA-ER-A2NG-06A,Metastatic
+TCGA-EB-A24C-01A,Primary Tumor
+TCGA-EE-A20I-06A,Metastatic
+TCGA-GF-A6C9-06A,Metastatic
+TCGA-ER-A19K-01A,Primary Tumor
+TCGA-DA-A3F8-06A,Metastatic
+TCGA-EB-A44Q-06A,Metastatic
+TCGA-D3-A5GU-06A,Metastatic
+TCGA-EB-A57M-01A,Primary Tumor
+TCGA-ER-A2NE-06A,Metastatic
+TCGA-EE-A29D-06A,Metastatic
+TCGA-D3-A3C3-06A,Metastatic
+TCGA-EE-A2MR-06A,Metastatic
+TCGA-ER-A19O-06A,Metastatic
+TCGA-D3-A5GS-06A,Metastatic
+TCGA-GN-A268-06A,Metastatic
+TCGA-YG-AA3N-01A,Primary Tumor
+TCGA-BF-A3DN-01A,Primary Tumor
+TCGA-WE-AA9Y-06A,Metastatic
+TCGA-GN-A8LN-01A,Primary Tumor
+TCGA-BF-A1PX-01A,Primary Tumor
+TCGA-D3-A2JC-06A,Metastatic
+TCGA-FS-A1ZD-06A,Metastatic
+TCGA-EE-A2MH-06A,Metastatic
+TCGA-WE-A8ZM-06A,Metastatic
+TCGA-D9-A1JX-06A,Metastatic
+TCGA-FS-A4FB-06A,Metastatic
+TCGA-EB-A3XE-01A,Primary Tumor
+TCGA-WE-A8JZ-06A,Metastatic
+TCGA-EE-A29C-06A,Metastatic
+TCGA-FR-A3YN-06A,Metastatic
+TCGA-EB-A431-01A,Primary Tumor
+TCGA-ER-A3PL-06A,Metastatic
+TCGA-D3-A2J7-06A,Metastatic
+TCGA-BF-AAP0-06A,Metastatic
+TCGA-D3-A2JB-06A,Metastatic
+TCGA-EB-A97M-01A,Primary Tumor
+TCGA-GN-A9SD-06A,Metastatic
+TCGA-EE-A2A2-06A,Metastatic
+TCGA-EE-A2GC-06A,Metastatic
+TCGA-D3-A5GN-06A,Metastatic
+TCGA-BF-AAP4-01A,Primary Tumor
+TCGA-D3-A8GI-06A,Metastatic
+TCGA-D9-A6EC-06A,Metastatic
+TCGA-EB-A44O-01A,Primary Tumor
+TCGA-D3-A1QA-07A,Additional Metastatic
+TCGA-FS-A4F5-06A,Metastatic
+TCGA-EE-A2ML-06A,Metastatic
+TCGA-EE-A20H-06A,Metastatic
+TCGA-D9-A6EG-06A,Metastatic
+TCGA-3N-A9WC-06A,Metastatic
+TCGA-FS-A1YW-06A,Metastatic
+TCGA-XV-AAZV-01A,Primary Tumor
+TCGA-EE-A29N-06A,Metastatic
+TCGA-GN-A264-06A,Metastatic
+TCGA-FR-A8YE-06A,Metastatic
+TCGA-FW-A3TV-06A,Metastatic
+TCGA-ER-A196-01A,Primary Tumor
+TCGA-D3-A8GC-06A,Metastatic
+TCGA-EE-A3JD-06A,Metastatic
+TCGA-EB-A4IS-01A,Primary Tumor
+TCGA-YD-A9TB-06A,Metastatic
+TCGA-D3-A3MV-06A,Metastatic
+TCGA-FS-A1ZU-06A,Metastatic
+TCGA-QB-A6FS-06A,Metastatic
+TCGA-EB-A24D-01A,Primary Tumor
+TCGA-EE-A2MI-06A,Metastatic
+TCGA-HR-A2OG-06A,Metastatic
+TCGA-EB-A42Y-01A,Primary Tumor
+TCGA-FR-A3YO-06A,Metastatic
+TCGA-D3-A51K-06A,Metastatic
+TCGA-D3-A8GQ-06A,Metastatic
+TCGA-ER-A19B-06A,Metastatic
+TCGA-D3-A2JN-06A,Metastatic
+TCGA-EE-A2M5-06A,Metastatic
+TCGA-EE-A2MM-06A,Metastatic
+TCGA-DA-A1I5-06A,Metastatic
+TCGA-EE-A29M-06A,Metastatic
+TCGA-BF-AAP2-01A,Primary Tumor
+TCGA-GN-A4U4-06A,Metastatic
+TCGA-BF-AAP8-01A,Primary Tumor
+TCGA-FS-A1ZH-06A,Metastatic
+TCGA-D9-A4Z2-01A,Primary Tumor
+TCGA-YG-AA3P-06A,Metastatic
+TCGA-DA-A1I8-06A,Metastatic
+TCGA-ER-A2NH-06A,Metastatic
+TCGA-XV-A9VZ-01A,Primary Tumor
+TCGA-ER-A19L-06A,Metastatic
+TCGA-EB-A4OY-01A,Primary Tumor
+TCGA-D9-A4Z3-01A,Primary Tumor
+TCGA-D3-A51J-06A,Metastatic
+TCGA-GN-A263-01A,Primary Tumor
+TCGA-D3-A5GT-01A,Primary Tumor
+TCGA-D3-A3C8-06A,Metastatic
+TCGA-EE-A2MD-06A,Metastatic
+TCGA-EE-A185-06A,Metastatic
+TCGA-EE-A183-06A,Metastatic
+TCGA-3N-A9WB-06A,Metastatic
+TCGA-EE-A3AD-06A,Metastatic
+TCGA-EE-A3AB-06A,Metastatic
+TCGA-EE-A20C-06A,Metastatic
+TCGA-EB-A6QZ-01A,Primary Tumor
+TCGA-ER-A3ET-06A,Metastatic
+TCGA-FS-A1ZA-06A,Metastatic
+TCGA-FS-A1ZT-06A,Metastatic
+TCGA-DA-A1IB-06A,Metastatic
+TCGA-FS-A1ZC-06A,Metastatic
+TCGA-DA-A1HY-06A,Metastatic
+TCGA-D3-A8GJ-06A,Metastatic
+TCGA-3N-A9WD-06A,Metastatic
+TCGA-D3-A8GL-06A,Metastatic
+TCGA-FS-A1ZE-06A,Metastatic
+TCGA-DA-A95V-06A,Metastatic
+TCGA-W3-AA1V-06B,Metastatic
+TCGA-EB-A82B-01A,Primary Tumor
+TCGA-EB-A5VV-06A,Metastatic
+TCGA-D3-A3CE-06A,Metastatic
+TCGA-EE-A3AC-06A,Metastatic
+TCGA-IH-A3EA-01A,Primary Tumor
+TCGA-ER-A19F-06A,Metastatic
+TCGA-EE-A2ME-06A,Metastatic
+TCGA-FR-A7U8-06A,Metastatic
+TCGA-EE-A3JA-06A,Metastatic
+TCGA-GN-A266-06A,Metastatic
+TCGA-W3-A824-06A,Metastatic
+TCGA-EB-A51B-01A,Primary Tumor
+TCGA-EE-A29R-06A,Metastatic
+TCGA-EB-A82C-01A,Primary Tumor
+TCGA-ER-A197-06A,Metastatic
+TCGA-ER-A19D-06A,Metastatic
+TCGA-EE-A2A1-06A,Metastatic
+TCGA-EB-A5UN-06A,Metastatic
+TCGA-HR-A2OH-06A,Metastatic
+TCGA-FS-A1ZB-06A,Metastatic
+TCGA-EE-A29B-06A,Metastatic
+TCGA-DA-A3F2-06A,Metastatic
+TCGA-BF-A1PV-01A,Primary Tumor
+TCGA-EE-A2MQ-06A,Metastatic
+TCGA-EB-A5FP-01A,Primary Tumor
+TCGA-DA-A1I1-06A,Metastatic
+TCGA-D3-A3ML-06A,Metastatic
+TCGA-EE-A3J5-06A,Metastatic
+TCGA-EE-A3JH-06A,Metastatic
+TCGA-XV-A9W2-01A,Primary Tumor
+TCGA-EB-A3Y7-01A,Primary Tumor
+TCGA-EE-A2GI-06A,Metastatic
+TCGA-D3-A1Q5-06A,Metastatic
+TCGA-D3-A8GB-06A,Metastatic
+TCGA-BF-A1PU-01A,Primary Tumor
+TCGA-EE-A2GP-06A,Metastatic
+TCGA-BF-A5EO-01A,Primary Tumor
+TCGA-YD-A9TA-06A,Metastatic
+TCGA-FS-A1ZR-06A,Metastatic
+TCGA-ER-A42L-06A,Metastatic
+TCGA-EB-A5SG-06A,Metastatic
+TCGA-FS-A1ZP-06A,Metastatic
+TCGA-EB-A5KH-06A,Metastatic
+TCGA-EE-A2MP-06A,Metastatic
+TCGA-FR-A69P-06A,Metastatic
+TCGA-D3-A2J8-06A,Metastatic
+TCGA-DA-A3F3-06A,Metastatic
+TCGA-WE-AAA0-06A,Metastatic
+TCGA-D3-A2JH-06A,Metastatic
+TCGA-D9-A1X3-06A,Metastatic
+TCGA-FW-A3TU-06A,Metastatic
+TCGA-LH-A9QB-06A,Metastatic
+TCGA-EB-A44R-06A,Metastatic
+TCGA-RP-A693-06A,Metastatic
+TCGA-BF-A3DJ-01A,Primary Tumor
+TCGA-EE-A2M8-06A,Metastatic
+TCGA-EE-A3J3-06A,Metastatic
+TCGA-GN-A4U7-06A,Metastatic
+TCGA-D3-A3CC-06A,Metastatic
+TCGA-D3-A51H-06A,Metastatic
+TCGA-FS-A1Z7-06A,Metastatic
+TCGA-EE-A181-06A,Metastatic
+TCGA-FS-A1ZS-06A,Metastatic
+TCGA-DA-A960-01A,Primary Tumor
+TCGA-EE-A2GH-06A,Metastatic
+TCGA-ER-A19C-06A,Metastatic
+TCGA-W3-A828-06A,Metastatic
+TCGA-EE-A2GR-06A,Metastatic
+TCGA-ER-A19Q-06A,Metastatic
+TCGA-ER-A2NF-01A,Primary Tumor
+TCGA-WE-A8K4-01A,Primary Tumor
+TCGA-EB-A550-01A,Primary Tumor
+TCGA-FS-A1ZG-06A,Metastatic
+TCGA-D3-A3C6-06A,Metastatic
+TCGA-EE-A2A0-06A,Metastatic
+TCGA-D9-A3Z3-06A,Metastatic
+TCGA-D3-A1Q4-06A,Metastatic
+TCGA-GN-A4U5-01A,Primary Tumor
+TCGA-D3-A51G-06A,Metastatic
+TCGA-EB-A41A-01A,Primary Tumor
+TCGA-EB-A4XL-01A,Primary Tumor
+TCGA-RP-A694-06A,Metastatic
+TCGA-EE-A2MJ-06A,Metastatic
+TCGA-FS-A4F4-06A,Metastatic
+TCGA-ER-A198-06A,Metastatic
+TCGA-FS-A1ZQ-06A,Metastatic
+TCGA-BF-A9VF-01A,Primary Tumor
+TCGA-EB-A4IQ-01A,Primary Tumor
+TCGA-W3-AA1W-06A,Metastatic
+TCGA-GF-A769-01A,Primary Tumor
+TCGA-D9-A4Z5-01A,Primary Tumor
+TCGA-ER-A1A1-06A,Metastatic
+TCGA-FS-A4F8-06A,Metastatic
+TCGA-FS-A1ZY-06A,Metastatic
+TCGA-WE-A8ZO-06A,Metastatic
+TCGA-D3-A8GV-06A,Metastatic
+TCGA-EE-A2GJ-06A,Metastatic
+TCGA-EE-A29X-06A,Metastatic
+TCGA-EE-A3AF-06A,Metastatic
+TCGA-EB-A3XB-01A,Primary Tumor
+TCGA-D3-A3CB-06A,Metastatic
+TCGA-EB-A4OZ-01A,Primary Tumor
+TCGA-EB-A6L9-06A,Metastatic
+TCGA-D9-A149-06A,Metastatic
+TCGA-ER-A19M-06A,Metastatic
+TCGA-FS-A4F0-06A,Metastatic
+TCGA-FR-A8YD-06A,Metastatic
+TCGA-RP-A695-06A,Metastatic
+TCGA-EB-A5SE-01A,Primary Tumor
+TCGA-HR-A5NC-01A,Primary Tumor
+TCGA-W3-AA21-06A,Metastatic
+TCGA-D9-A1JW-06A,Metastatic
+TCGA-D3-A2JD-06A,Metastatic
+TCGA-EE-A2MN-06A,Metastatic
+TCGA-BF-AAP7-01A,Primary Tumor
+TCGA-GN-A26C-01A,Primary Tumor
+TCGA-D3-A1Q8-06A,Metastatic
+TCGA-D3-A51F-06A,Metastatic
+TCGA-ER-A3EV-06A,Metastatic
+TCGA-GN-A8LK-06A,Metastatic
+TCGA-EE-A2M6-06A,Metastatic
+TCGA-FS-A1Z4-06A,Metastatic
+TCGA-GN-A26D-06A,Metastatic
+TCGA-BF-A3DM-01A,Primary Tumor
+TCGA-D3-A51N-06A,Metastatic
+TCGA-D3-A8GS-06A,Metastatic
+TCGA-FW-A3I3-06A,Metastatic
+TCGA-EE-A17X-06A,Metastatic
+TCGA-D3-A8GR-06A,Metastatic
+TCGA-WE-A8ZY-06A,Metastatic
+TCGA-ER-A42H-01A,Primary Tumor
+TCGA-FR-A726-01A,Primary Tumor
+TCGA-ER-A194-01A,Primary Tumor
+TCGA-EB-A5UL-06A,Metastatic
+TCGA-WE-A8K5-06A,Metastatic
+TCGA-W3-A825-06A,Metastatic
+TCGA-XV-AAZW-01A,Primary Tumor
+TCGA-D3-A2J9-06A,Metastatic
+TCGA-EE-A3JB-06A,Metastatic
+TCGA-EB-A44N-01A,Primary Tumor
+TCGA-EE-A29H-06A,Metastatic
+TCGA-GN-A4U8-06A,Metastatic
+TCGA-EB-A44P-01A,Primary Tumor
+TCGA-W3-AA1O-06A,Metastatic
+TCGA-EE-A2MC-06A,Metastatic
+TCGA-FS-A1ZZ-06A,Metastatic
+TCGA-EE-A2GE-06A,Metastatic
+TCGA-GN-A4U3-06A,Metastatic
+TCGA-ER-A19P-06A,Metastatic
+TCGA-BF-AAOU-01A,Primary Tumor
+TCGA-FR-A44A-06A,Metastatic
+TCGA-BF-A5ER-01A,Primary Tumor
+TCGA-OD-A75X-06A,Metastatic
+TCGA-EB-A430-01A,Primary Tumor
+TCGA-EE-A3AA-06A,Metastatic
+TCGA-BF-A5EP-01A,Primary Tumor
+TCGA-ER-A19T-06A,Metastatic
+TCGA-ER-A3ES-06A,Metastatic
+TCGA-ER-A2NB-01A,Primary Tumor
+TCGA-ER-A19W-06A,Metastatic
+TCGA-EE-A2GD-06A,Metastatic
+TCGA-ER-A2NF-06A,Metastatic
+TCGA-EB-A3XD-01A,Primary Tumor
+TCGA-D3-A2JA-06A,Metastatic
+TCGA-RP-A690-06A,Metastatic
+TCGA-BF-AAP6-01A,Primary Tumor
+TCGA-EB-A551-01A,Primary Tumor
+TCGA-EB-A42Z-01A,Primary Tumor
+TCGA-FR-A2OS-01A,Primary Tumor
+TCGA-D3-A1QB-06A,Metastatic
+TCGA-EE-A20F-06A,Metastatic
+TCGA-EB-A3XF-01A,Primary Tumor
+TCGA-XV-A9W5-01A,Primary Tumor
+TCGA-ER-A2NC-06A,Metastatic
+TCGA-D3-A5GO-06A,Metastatic
+TCGA-EE-A2GT-06A,Metastatic
+TCGA-EE-A3AG-06A,Metastatic
+TCGA-EE-A180-06A,Metastatic
+TCGA-EE-A2MG-06A,Metastatic
+TCGA-EE-A29A-06A,Metastatic
+TCGA-EB-A5VU-01A,Primary Tumor
+TCGA-ER-A19A-06A,Metastatic
+TCGA-DA-A1I2-06A,Metastatic
+TCGA-EE-A3J4-06A,Metastatic
+TCGA-EB-A85I-01A,Primary Tumor

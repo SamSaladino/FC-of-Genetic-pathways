@@ -1,29 +1,30 @@
 ,PC2,Pathways
-0,0.0005694805789526814,Autophagy
-1,-0.24391024628622454,Cell Cycle
-2,0.12207500415181329,Cell-Cell communication
-3,-0.04385358433474717,Cellular responses to external stimuli
-4,-0.2273244152353192,Chromatin organization
-5,0.048329359167952814,Circadian Clock
-6,0.0065833155103074414,Developmental Biology
-7,0.7262129149290879,Digestion and absorption
-8,0.07667097212901469,Disease
-9,-0.22382676001511387,DNA Repair
-10,-0.2043472212102177,DNA Replication
-11,0.0077303924339895275,Extracellular matrix organization
-12,-0.05552366195905491,Gene expression (Transcription)
-13,0.19816673407211643,Hemostasis
-14,0.13609735694705047,Immune System
-15,0.1169451825915084,Metabolism
-16,0.016405455755039825,Metabolism of proteins
-17,0.02086009689978323,Metabolism of RNA
-18,0.012991989835771081,Mitophagy
-19,0.04953369096109761,Muscle contraction
-20,0.12337815398469236,Neuronal System
-21,0.0013634648565101176,Organelle biogenesis and maintenance
-22,-0.018445343989575227,Programmed Cell Death
-23,0.09943572919691375,Protein localization
-24,-0.2516266287098977,Reproduction
-25,0.03119203393644817,Signal Transduction
-26,0.2558441085068491,Transport of small molecules
-27,0.10663899075971242,Vesicle-mediated transport
+0,0.8449908004115332,Digestion and absorption
+1,-0.2791899485766678,Chromatin organization
+2,0.2681624670691104,Drug ADME
+3,0.16094005462880473,Transport of small molecules
+4,-0.1393720349115498,Cell Cycle
+5,-0.13300647634381177,Muscle contraction
+6,-0.13141732714648083,Reproduction
+7,-0.12268213163696613,DNA Replication
+8,-0.09272595029962322,DNA Repair
+9,0.07980003295890552,Protein localization
+10,0.0712306052249546,Metabolism of RNA
+11,-0.063383065684131,Circadian Clock
+12,-0.05931994825174008,Extracellular matrix organization
+13,0.052853910306853144,Disease
+14,-0.05228410816946309,Developmental Biology
+15,-0.04408256602686776,Signal Transduction
+16,-0.04108193067758936,Gene expression (Transcription)
+17,-0.030182394042228267,Programmed Cell Death
+18,0.029467355232773218,Cell-Cell communication
+19,0.025016855263941505,Hemostasis
+20,0.023680322269823594,Metabolism
+21,-0.021962175027336148,Vesicle-mediated transport
+22,-0.02020372857783969,Cellular responses to stimuli
+23,-0.010841187368870133,Organelle biogenesis and maintenance
+24,0.006914149306199484,Metabolism of proteins
+25,0.004890992932827337,Sensory Perception
+26,-0.0028796734173592623,Autophagy
+27,0.0018735807207026119,Neuronal System
+28,0.0014611313059115698,Immune System

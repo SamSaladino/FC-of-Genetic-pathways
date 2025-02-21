@@ -1,3 +1,6 @@
-data_external/melanoma_data/datos21
 __pycache__/
 venv
+.ipynb_checkpoints/
+*.txt
+data_external/melanoma_data/melanoma_data.csv
+data_generated/mean_exp_values/mean_exp_values.csv
